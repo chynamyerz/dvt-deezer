@@ -103,6 +103,7 @@ const mockData: IAlbum = {
           tracklist: "https://api.deezer.com/artist/27/top?limit=50",
           type: "artist",
         },
+        //@ts-ignore
         album: {
           id: "302127",
           title: "Discovery",

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Track> renders the component 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root makeStyles-track-1 css-bhp9pd-MuiPaper-root-MuiCard-root"
+  >
+    <img
+      alt="Harder, Better, Faster, Stronger"
+      class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+      height="200"
+      src="https://e-cdns-images.dzcdn.net/images/cover/2e018122cb56986277102d2041a592c8/500x500-000000-80-0-0.jpg"
+    />
+    <div
+      class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1vpwcmr-MuiGrid-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true makeStyles-trackTitle-2 makeStyles-textOverflow-5 css-1vd824g-MuiGrid-root"
+            >
+              Harder, Better, Faster, Stronger
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+            >
+              03.73
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item makeStyles-trackArtistName-3 makeStyles-textOverflow-5 css-13i4rnv-MuiGrid-root"
+        >
+          By Daft Punk
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item makeStyles-trackAlbumTitle-4 makeStyles-textOverflow-5 css-13i4rnv-MuiGrid-root"
+        >
+          Discovery
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

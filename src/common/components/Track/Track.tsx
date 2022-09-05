@@ -39,7 +39,7 @@ export const Track: FC<TrackProps> = ({
    *
    */
 
-  const viewArtistHandler = (artistId: number) => {
+  const viewArtistHandler = (artistId: string | number) => {
     navigate(encodeURI(`${ARTIST.toLowerCase()}/${artistId}`));
   };
 
